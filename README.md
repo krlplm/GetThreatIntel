@@ -4,7 +4,7 @@ Can be used to gather ThreatIntel information about URL, IPs and MD5s
 Description:
 This tool can be used to passively gather the IP, URL and Hash information just from command line which in turn pulls information from the known sources which would help the Security Analysts to reduce the time that they spend on collecting data.
 
-Deployment:
+Deployment: 
 •	Copy “dist.7z” under some folder location say, which we would refer as FOLDER
 •	Extract “dist.7z” under FOLDER which would create a folder structure.
 •	Traverse to “FOLDER\dist\GetThreatIntel\” where you would find a group of files and an EXE named as “GetThreatIntel.exe”
